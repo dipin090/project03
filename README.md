@@ -1,2 +1,2 @@
-# custom_object_detection
+# custom image detection using yolov3 and darknet
  
